@@ -1,3 +1,3 @@
 # Profile Card Component
-#Link to page:
+Link to page:
 https://profile-card-component-9vcl1kyuy-liammarrie.vercel.app/
